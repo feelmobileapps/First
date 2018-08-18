@@ -13,15 +13,15 @@
 </app>
 
 <app>
-<name>DP and Status</name>
-<url>market://details?id=com.appbasic.dpandstatus</url>
-<image>http://appbasic.com/promimg/dpstatus125.png</image>
-</app>
-
-<app>
 <name>Echo Magic Mirror Effect</name>
 <url>market://details?id=com.appbites.echomagicmirroreffect</url>
 <image>http://appbasic.com/promimg/echomagicmirror1252.png</image>
+</app>
+
+<app>
+<name>DP and Status</name>
+<url>market://details?id=com.appbasic.dpandstatus</url>
+<image>http://appbasic.com/promimg/dpstatus125.png</image>
 </app>
 
 
