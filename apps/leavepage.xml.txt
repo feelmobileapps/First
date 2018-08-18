@@ -1,0 +1,35 @@
+
+<apps>
+   
+<app>
+<name>Flash on call</name>
+<url>market://details?id=com.appbasic.flashoncall</url>
+<image>http://appbasic.com/promimg/flashoncallnew.png</image>
+</app>
+
+<app>
+<name>Women Traditional Dresses</name>
+<url>market://details?id=com.appbites.womentraditionaldress</url>
+<image>http://appbasic.com/promimg/womentraditionalnew.png</image>
+</app>
+
+<app>
+<name>DP and Status</name>
+<url>market://details?id=com.appbasic.dpandstatus</url>
+<image>http://appbasic.com/promimg/dpstatus125.png</image>
+</app>
+
+<app>
+<name>Echo Magic Mirror Effect</name>
+<url>market://details?id=com.appbites.echomagicmirroreffect</url>
+<image>http://appbasic.com/promimg/echomagicmirror1252.png</image>
+</app>
+
+<app>
+<name>Birthday Photo Frames Wishes</name>
+<url>market://details?id=com.appbasic.birthdayphotoframes</url>
+<image>http://appbasic.com/promimg/birthdayphotoframesnew.png</image>
+</app>
+
+
+</apps>
