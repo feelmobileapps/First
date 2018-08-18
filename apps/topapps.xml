@@ -1,27 +1,185 @@
+
 <apps>
-
+  
 <app>
-<name>Raksha Bandhan Frames</name>
-<url>com.seasonalapps.rakhiphotoframes</url>
-<image>http://seasonalappstore.com/icons/rakhabandhanlandpf.png</image>
+<name>Waterfall Photo Frames</name>
+<url>market://details?id=com.appbites.waterfallphotoframes</url>
+<image>http://appbasic.com/promimg/waterfall125.png</image>
 </app>
 
 <app>
-<name>Independence Day Photo Frames</name>
-<url>com.seasonalapps.independencedayphotoframes</url>
-<image>http://seasonalappstore.com/icons/independencedaylandpf.png</image>
+<name>Independence Day Wishes</name>
+<url>market://details?id=com.appbasic.independencedaywishes</url>
+<image>http://appbasic.com/promimg/indipendencewishes125.png</image>
 </app>
 
 <app>
-<name>Independence Day Police Suit</name>
-<url>com.seasonalapps.policephotoframes</url>
-<image>http://seasonalappstore.com/icons/independencedaypolicesuit.png</image>
+<name>DP and Status</name>
+<url>market://details?id=com.appbasic.dpandstatus</url>
+<image>http://appbasic.com/promimg/dpstatus125.png</image>
 </app>
 
 <app>
-<name>Krishna Janmashtami Photo Frames</name>
-<url>com.seasonalapps.janmashtamiphotoframes</url>
-<image>http://seasonalappstore.com/icons/krishnalandpf.png</image>
+<name>Police Suit</name>
+<url>market://details?id=com.appbasic.policephotosuit</url>
+<image>http://appbasic.com/promimg/policesuit.PNG</image>
+</app>
+
+<app>
+<name>Flash on call</name>
+<url>market://details?id=com.appbasic.flashoncall</url>
+<image>http://appbasic.com/promimg/flashoncallnew.png</image>
+</app>
+
+<app>
+<name>Rakhi Photo Frames</name>
+<url>market://details?id=com.appbasic.rakhiphotoframes</url>
+<image>http://appbasic.com/promimg/rakhiphotoframes125.png</image>
+</app>
+
+<app>
+<name>Blood Pressure Chart Log</name>
+<url>market://details?id=com.appbasic.fingerbloodpressureprank</url>
+<image>http://appbasic.com/promimg/fingerbdpank125.png</image>
+</app>
+
+<app>
+<name>Slow Motion Video Maker</name>
+<url>market://details?id=com.appbasic.slowmotionvideomaker</url>
+<image>http://appbasic.com/promimg/slowmotionvideomaker1251.png</image>
+</app>
+
+<app>
+<name>Period Tracker</name>
+<url>market://details?id=com.appbasic.periodtracker</url>
+<image>http://appbasic.com/promimg/periodtracker_1251.png</image>
+</app>
+
+<app>
+<name>Coffee Mug photo frames</name>
+<url>market://details?id=com.appbites.coffeemugphotoframes</url>
+<image>http://appbasic.com/promimg/coffemug125new.png</image>
+</app>
+
+<app>
+<name>Garden Photo Frames</name>
+<url>market://details?id=com.appbites.gardenphotoframes</url>
+<image>http://appbasic.com/promimg/gardenphotoframe125.png</image>
+</app>
+
+<app>
+<name>Echo Magic Mirror Effect</name>
+<url>market://details?id=com.appbites.echomagicmirroreffect</url>
+<image>http://appbasic.com/promimg/echomagicmirror125.png</image>
+</app>
+
+<app>
+<name>Photo Grid Mixer</name>
+<url>market://details?id=com.appbites.photogridmixer</url>
+<image>http://appbasic.com/promimg/photogridmixericon.png</image>
+</app>
+
+<app>
+<name>Couple Traditional Dresses</name>
+<url>market://details?id=com.appbasic.coupletraditionaldresses</url>
+<image>http://appbasic.com/promimg/coupletraditionalnew.png</image>
+</app>
+
+<app>
+<name>Photo Collage Maker</name>
+<url>market://details?id=com.appbasic.collagemaker</url>
+<image>http://appbasic.com/promimg/customcollagemaker1125.png</image>
+</app> 
+
+<app>
+<name>Locket Photo Frames</name>
+<url>market://details?id=com.appbasic.locketphotoframes</url>
+<image>http://appbasic.com/promimg/locket125.png</image>
+</app>
+
+<app>
+<name>Photo Aquarium Live Wallpaper</name>
+<url>market://details?id=com.appbasic.photoaquariumlivewallpaper</url>
+<image>http://appbasic.com/promimg/photoaquarium.png</image>
+</app>
+
+<app>
+<name>Lovely Ring Photo Frames</name>
+<url>market://details?id=com.appbites.lovelyringphotoframes</url>
+<image>http://appbasic.com/promimg/lovelyring125.png</image>
+</app>
+
+<app>
+<name>Birthday Photo Frames Wishes</name>
+<url>market://details?id=com.appbasic.birthdayphotoframes</url>
+<image>http://appbasic.com/promimg/birthdayphotoframewishes.png</image>
+</app>
+
+<app>
+<name>Hill photo frames</name>
+<url>market://details?id=com.appbites.hillphotoframes</url>
+<image>http://appbasic.com/promimg/hillpf125.png</image>
+</app>
+
+<app>
+<name>Autumn photo frames</name>
+<url>market://details?id=com.appbasic.autumnphotoframes</url>
+<image>http://appbasic.com/promimg/autumnphotoframesnew.png</image>
+</app>
+
+
+<app>
+<name>Magic Live Wallpaper</name>
+<url>market://details?id=com.appbasic.magiclivewallpaper</url>
+<image>http://appbasic.com/promimg/magiclivewallpaper125.png</image>
+</app>
+
+<app>
+<name>Women Fashion Suit</name>
+<url>market://details?id=com.appbasic.womenphotosuit</url>
+<image>http://appbasic.com/promimg/womenfashionmain125.png</image>
+</app>
+
+<app>
+<name>Bubble Photo Frames</name>
+<url>market://details?id=com.appbasic.bubblephotoframes</url>
+<image>http://appbasic.com/promimg/bubblephotoframes125.png</image>
+</app>
+
+<app>
+<name>Crystal Ball Photo Frames</name>
+<url>market://details?id=com.appbasic.crystalballphotoframes</url>
+<image>http://appbasic.com/promimg/crystalballphotoframes125.png</image>
+</app>
+
+<app>
+<name>My name live wallpaper</name>
+<url>market://details?id=com.appbasic.mynamelivewallpaper</url>
+<image>http://appbasic.com/promimg/mynamelwp.png</image>
+</app>
+
+<app>
+<name>Neon Flowers Livewallpaper</name>
+<url>market://details?id=com.appbasic.neonflowerslivewallpaper</url>
+<image>http://appbasic.com/promimg/neonflowerslwp.png</image>
+</app>
+
+<app>
+<name>Police Suit</name>
+<url>market://details?id=com.appbasic.policephotosuit</url>
+<image>http://appbasic.com/promimg/policesuit.PNG</image>
+</app>
+
+<app>
+<name>Wanted Photo Frames</name>
+<url>market://details?id=com.appbasic.wantedphotoframes</url>
+<image>http://appbasic.com/promimg/wanted125.png</image>
+</app>
+
+<app>
+<name>Tulip Photo Frames</name>
+<url>market://details?id=com.appbasic.tulipphotoframes</url>
+<image>http://appbasic.com/promimg/tulipphotoframes.png</image>
 </app>
 
 </apps>
