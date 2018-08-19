@@ -1,40 +1,41 @@
-<apps>
+<freephotographyapps>
    
-<app>
-<name>Bakrid Photo Frames</name>
-<url>market://details?id=com.feelmobileapps.photoframe.bakrid</url>
-<image>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/bakridad.png</image>
-</app>
+<photography>
+<apptitle>Bakrid Photo Frames</name>
+<applink>market://details?id=com.feelmobileapps.photoframe.bakrid</url>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/bakridad.png</image>
+</photography>
 
-<app>
-<name>Independenceday Photo Frames </name>
-<url>market://details?id=com.feelmobileapps.photoframe.independendenceday</url>
-<image>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/independencedayad.png</image>
-</app>
+<photography>
+<apptitle>Independenceday Photo Frames </name>
+<applink>market://details?id=com.feelmobileapps.photoframe.independendenceday</url>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/independencedayad.png</image>
+</photography>
 
-<app>
-<name>Onam Photo Frames</name>
-<url>market://details?id=com.feelmobileapps.photoframe.onam</url>
-<image>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/onamad.png</image>
-</app>
+<photography>
+<apptitle>Onam Photo Frames</name>
+<applink>market://details?id=com.feelmobileapps.photoframe.onam</url>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/onamad.png</image>
+</photography>
 
-<app>
-<name>Rakha Bandhan Photo Frames</name>
-<url>market://details?id=com.feelmobileapps.photoframe.rakhi</url>
-<image>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/rakhiad.png</image>
-</app>
-<app>
-<name>Janmashtami Photo Frames</name>
-<url>market://details?id=com.feelmobileapps.photoframe.janmashtami</url>
-<image>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/janmashtamiad.png</image>
-</app>
+<photography>
+<apptitle>Rakha Bandhan Photo Frames</name>
+<applink>market://details?id=com.feelmobileapps.photoframe.rakhi</url>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/rakhiad.png</image>
+</photography>
+   
+<photography>
+<apptitle>Janmashtami Photo Frames</name>
+<applink>market://details?id=com.feelmobileapps.photoframe.janmashtami</url>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/janmashtamiad.png</image>
+</photography>
 
-<app>
-<name>Men Traditional Dresses</name>
-<url>market://details?id=com.feelmobileapps.mentraditional</url>
-<image>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/mentraditionalad.png</image>
-</app>
+<photography>
+<apptitle>Men Traditional Dresses</name>
+<applink>market://details?id=com.feelmobileapps.mentraditional</url>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/mentraditionalad.png</image>
+</photography>
 
 
 
-</apps>
+</freephotographyapps>
