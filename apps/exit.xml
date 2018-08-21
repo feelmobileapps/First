@@ -31,6 +31,37 @@
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/janmashtamiad.png</appicon>
 </photography>
 
+   <photography>
+<apptitle>Birthday Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.birthday</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/birthdayad.png</appicon>
+</photography>
+
+<photography>
+<apptitle>Garden Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.garden</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/gardenad.png</appicon>
+</photography>
+
+   
+<photography>
+<apptitle>Nature Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.nature</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/naturead.png</appicon>
+</photography>
+   
+ <photography>
+<apptitle>Waterfall Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.waterfall</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/waterfallad.png</appicon>
+</photography>
+   
+<photography>
+<apptitle>Women Traditional Sarees</apptitle>
+<applink>market://details?id=com.feelmobileapps.mentraditional</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/womentraditionalad.png</appicon>
+</photography>
+   
 <photography>
 <apptitle>Men Traditional Dresses</apptitle>
 <applink>market://details?id=com.feelmobileapps.mentraditional</applink>
