@@ -28,20 +28,18 @@
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/janmashtamiad.png</appicon>
 </photography>
 
-   
    <photography>
 <apptitle>Dussehra Photo Frames</apptitle>
 <applink>market://details?id=com.feelmobileapps.photoframe.dussehra</applink>
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/dussehraad.png</appicon>
 </photography>
-
+   
    <photography>
 <apptitle>Navratri Photo Frames</apptitle>
 <applink>market://details?id=com.feelmobileapps.photoframe.navratri</applink>
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/navratriad.png</appicon>
 </photography>
-   
-   
+  
       <photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.feelmobileapps.photoframe.wedding</applink>
