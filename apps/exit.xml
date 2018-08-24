@@ -1,11 +1,12 @@
 <photographyapps>
    
 <photography>
-<apptitle>Bakrid Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.bakrid</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/bakridad.png</appicon>
+<apptitle>Rakha Bandhan Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.rakhi</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/rakhiad.png</appicon>
 </photography>
 
+   
 <photography>
 <apptitle>Onam Photo Frames</apptitle>
 <applink>market://details?id=com.feelmobileapps.photoframe.onam</applink>
@@ -13,11 +14,7 @@
 </photography>
 
    
-<photography>
-<apptitle>Rakha Bandhan Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.rakhi</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/rakhiad.png</appicon>
-</photography>
+
    
  <photography>
 <apptitle>Ganesh Photo Frames</apptitle>
@@ -68,11 +65,7 @@
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/mentraditionalad.png</appicon>
 </photography>
    
-<photography>
-<apptitle>Independenceday Photo Frames </apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.independendenceday</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/independencedayad.png</appicon>
-</photography>
+
 
 
 </photographyapps>
