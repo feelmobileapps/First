@@ -1,34 +1,17 @@
-<photographyapps>
-   
-<photography>
-<apptitle>Rakha Bandhan Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.rakhi</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/rakhiad.png</appicon>
-</photography>
-
-   
-<photography>
-<apptitle>Onam Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.onam</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/onamad.png</appicon>
-</photography>
-
-   
-
-   
- <photography>
-<apptitle>Ganesh Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.ganesh</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshad.png</appicon>
-</photography>
+<photographyapps>  
    
 <photography>
 <apptitle>Janmashtami Photo Frames</apptitle>
 <applink>market://details?id=com.feelmobileapps.photoframe.janmashtami</applink>
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/janmashtamiad.png</appicon>
 </photography>
-
    
+ <photography>
+<apptitle>Ganesh Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.ganesh</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshad.png</appicon>
+</photography>
+
    <photography>
 <apptitle>Dussehra Photo Frames</apptitle>
 <applink>market://details?id=com.feelmobileapps.photoframe.dussehra</applink>
