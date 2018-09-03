@@ -1,4 +1,9 @@
 <photographyapps>  
+   <photography>
+<apptitle>Teachers Day Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.teachersday</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/teachersdayad.png</appicon>
+</photography>
    
 <photography>
 <apptitle>Janmashtami Photo Frames</apptitle>
