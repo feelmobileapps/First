@@ -1,8 +1,17 @@
 <photographyapps>  
+   
+    <photography>
+<apptitle>Ganesh Chaturthi Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.ganeshchaturthi</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshchaturthiad.png</appicon>
+</photography>
+   
+
+   
    <photography>
-<apptitle>Teachers Day Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.teachersday</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/teachersdayad.png</appicon>
+<apptitle>Ganesh Greetings,Wishes </apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.lordganesh</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/lordganeshad.png</appicon>
 </photography>
    
 <photography>
