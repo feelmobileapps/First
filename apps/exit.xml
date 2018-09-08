@@ -6,7 +6,11 @@
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshchaturthiad.png</appicon>
 </photography>
    
-
+<photography>
+<apptitle>Lord Ganesh Wallpapers</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.lordganeshwallpapers</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganehswallpaperad.png</appicon>
+</photography>
    
    <photography>
 <apptitle>Ganesh Greetings,Wishes </apptitle>
@@ -14,7 +18,11 @@
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/lordganeshad.png</appicon>
 </photography>
    
-
+<photography>
+<apptitle>Ganesh Live Wallpapers</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.lordganeshlivewallpaper</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshlivewallpaperad.png</appicon>
+</photography>
    
  <photography>
 <apptitle>Ganesh Photo Frames</apptitle>
