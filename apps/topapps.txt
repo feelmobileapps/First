@@ -1,0 +1,98 @@
+<photographyapps>  
+   
+    <photography>
+<apptitle>Ganesh Chaturthi Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.ganeshchaturthi</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshchaturthiad.png</appicon>
+</photography>
+   
+<photography>
+<apptitle>Lord Ganesh Wallpapers</apptitle>
+<applink>market://details?id=com.feelmobileapps.lordganeshwallpapers</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganehswallpaperad.png</appicon>
+</photography>
+   
+   <photography>
+<apptitle>Ganesh Greetings,Wishes </apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.lordganesh</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/lordganeshad.png</appicon>
+</photography>
+   
+<photography>
+<apptitle>Ganesh Live Wallpapers</apptitle>
+<applink>market://details?id=com.feelmobileapps.lordganeshlivewallpaper</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshlivewallpaperad.png</appicon>
+</photography>
+   
+ <photography>
+<apptitle>Ganesh Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.ganesh</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshad.png</appicon>
+</photography>
+
+   <photography>
+<apptitle>Dussehra Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.dussehra</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/dussehraad.png</appicon>
+</photography>
+
+   <photography>
+<apptitle>Navratri Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.navratri</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/navratriad.png</appicon>
+</photography>
+   
+   
+      <photography>
+<apptitle>Wedding Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.wedding</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/weddingad.png</appicon>
+</photography>
+
+   <photography>
+<apptitle>Love Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.love</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/lovead.png</appicon>
+</photography>
+   
+   <photography>
+<apptitle>Birthday Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.birthday</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/birthdayad.png</appicon>
+</photography>
+
+<photography>
+<apptitle>Garden Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.garden</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/gardenad.png</appicon>
+</photography>
+
+   
+<photography>
+<apptitle>Nature Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.nature</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/naturead.png</appicon>
+</photography>
+   
+ <photography>
+<apptitle>Waterfall Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.waterfall</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/waterfallad.png</appicon>
+</photography>
+   
+<photography>
+<apptitle>Women Traditional Sarees</apptitle>
+<applink>market://details?id=com.feelmobileapps.womentraditional</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/womentraditionalad.png</appicon>
+</photography>
+   
+<photography>
+<apptitle>Men Traditional Dresses</apptitle>
+<applink>market://details?id=com.feelmobileapps.mentraditional</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/mentraditionalad.png</appicon>
+</photography>
+   
+
+
+
+</photographyapps>
