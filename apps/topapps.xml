@@ -1,34 +1,5 @@
 <photographyapps>  
-   
-    <photography>
-<apptitle>Ganesh Chaturthi Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.ganeshchaturthi</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshchaturthiad.png</appicon>
-</photography>
-   
-<photography>
-<apptitle>Lord Ganesh Wallpapers</apptitle>
-<applink>market://details?id=com.feelmobileapps.lordganeshwallpapers</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganehswallpaperad.png</appicon>
-</photography>
-   
-   <photography>
-<apptitle>Ganesh Greetings,Wishes </apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.lordganesh</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/lordganeshad.png</appicon>
-</photography>
-   
-<photography>
-<apptitle>Ganesh Live Wallpapers</apptitle>
-<applink>market://details?id=com.feelmobileapps.lordganeshlivewallpaper</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshlivewallpaperad.png</appicon>
-</photography>
-   
- <photography>
-<apptitle>Ganesh Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.ganesh</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/ganeshad.png</appicon>
-</photography>
+
 
    <photography>
 <apptitle>Dussehra Photo Frames</apptitle>
