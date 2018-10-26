@@ -2,15 +2,9 @@
 
 
    <photography>
-<apptitle>Dussehra Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.dussehra</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/dussehraad.png</appicon>
-</photography>
-
-   <photography>
-<apptitle>Navratri Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.navratri</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/navratriad.png</appicon>
+<apptitle>Diwali Photo Frames</apptitle>
+<applink>market://details?id=com.feelmobileapps.photoframe.diwaliframe</applink>
+<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/diwalipfad.png</appicon>
 </photography>
    
    
