@@ -1,12 +1,13 @@
-<photographyapps> 
-   
-<photography>
+<photographyapps>  
+
+
+   <photography>
 <apptitle>Diwali Photo Frames</apptitle>
 <applink>market://details?id=com.feelmobileapps.photoframe.diwaliframe</applink>
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/diwalipfad.png</appicon>
 </photography>
-
- <photography>
+   
+   <photography>
 <apptitle>Diwali Wishes,Greetings</apptitle>
 <applink>market://details?id=com.feelmobileapps.photoframe.diwaliwishes</applink>
 <appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/diwaliwishes.png</appicon>
